@@ -13,13 +13,13 @@
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW-IZ5mRXR8daGjefjUx5ybAi2b0nzDiG_HHDYj5mq2YQmh2uSUetr-xM2B1hKfynETzqOdBj3OKX-c4oJd0wWEunkrCfSzXVMgeYa5JF01kgn7xdxG62Q65pvFkOe_SZe7PQblRhFy6pK-JodaaLISGYWiyKskabQq-YlQ0vvLkGlSw/s1600/app_icon.png",
       "type": "image/jpeg",
-      "sizes": "1024x538",
+      "sizes": "512x512",
       "isSquare": false,
       "isPng": false,
       "isWebp": false,
       "isJpg": true,
-      "width": 1024,
-      "is512x512": false,
+      "width": 512,
+      "is512x512": true,
       "is256x256": false,
       "is192x192": false
     },
