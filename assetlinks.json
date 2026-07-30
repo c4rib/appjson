@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cartao.twa",
+      "sha256_cert_fingerprints": [
+        "86:8B:F6:F7:B4:D5:87:50:1F:C5:7C:0A:B6:6F:D9:93:D8:EF:37:3F:57:14:1F:53:8B:8E:A3:0C:E7:D3:85:29",
+        "DC:BF:33:02:8B:CA:A2:F6:11:96:FA:C5:F0:4B:AC:F8:61:2C:06:BB:0E:A2:E1:8D:5C:D4:8C:C1:ED:BE:94:5D",
+        "44:4C:1E:0B:70:90:A9:AA:03:0D:D6:B3:B0:F9:BC:D3:3D:C7:1C:6B:D7:FE:EC:31:7B:B7:FA:14:5E:6A:04:F4"
+      ]
+    }
+  }
+]
