@@ -5,9 +5,9 @@
   "display": "fullscreen",
   "name": "Cartão Fidelidade",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "https://cartaozinho.blogspot.com",
   "short_name": "Cartão Fidelidade",
-  "start_url": "/",
+  "start_url": "https://cartaozinho.blogspot.com",
   "theme_color": "#ffbb00",
 "icons": [
     {
