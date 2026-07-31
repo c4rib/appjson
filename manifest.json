@@ -2,7 +2,7 @@
   "background_color": "#212121",
   "description": "Cartão Fidelidade digital online de forma simples e rápida. Gerencie e Consulte seus pontos",
   "dir": "ltr",
-  "display": "fullscreen",
+  "display": "standalone",
   "name": "Cartão Fidelidade",
   "orientation": "portrait",
   "scope": "https://cartaozinho.blogspot.com",
